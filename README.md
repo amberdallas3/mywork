@@ -1,3 +1,3 @@
-# mywork
-My work as a security analyst 
+# myprojects
+My personal projects 
 Amber Dallas - amberdallas70@gmail.com
